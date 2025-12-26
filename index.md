@@ -38,4 +38,4 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
 
 ## Contacto
 📧 hiloferrea@gmail.com  // hferrea@estadistica.ec.gba.gov.ar
-🔗 [LinkedIn](https://www.linkedin.com/in/hilarioferrea) | [GitHub](https://github.com/HiloFerrea)
+🔗 [LinkedIn](https://www.linkedin.com/in/hilario-ferrea-544521158)| [GitHub](https://github.com/HiloFerrea)
