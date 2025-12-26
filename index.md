@@ -9,28 +9,35 @@
 <hr>
 
 <style>
-.menu {
-  display: flex;
-  gap: 0.6rem;
-  margin-bottom: 1.2rem;
+.menu{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.5rem;
+  margin:.75rem 0 1.25rem 0;
 }
 
-.menu a {
-  text-decoration: none;
-  color: #333;
-  padding: 0.4rem 0.8rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background-color: #f8f8f8;
-  font-weight: 600;
-  font-size: 0.9rem;
+.menu a{
+  text-decoration:none;
+  padding:.42rem .85rem;
+  border-radius:999px;          /* pastillas */
+  border:1px solid rgba(255,255,255,.35);
+  background:rgba(255,255,255,.10);
+  color:rgba(255,255,255,.92);
+  font-weight:500;              /* menos “pesado” */
+  font-size:.92rem;
+  transition: background .15s ease, border-color .15s ease, transform .05s ease;
 }
 
-.menu a:hover {
-  background-color: #eaeaea;
-  border-color: #999;
+.menu a:hover{
+  background:rgba(255,255,255,.18);
+  border-color:rgba(255,255,255,.55);
+}
+
+.menu a:active{
+  transform: translateY(1px);
 }
 </style>
+
 
 # Análisis social aplicado
 
