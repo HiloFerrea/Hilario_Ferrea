@@ -8,6 +8,25 @@
 
 <hr>
 
+
+<style>
+.menu {
+  display: flex;
+  gap: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #0366d6;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+</style>
+
 ---
 
 
