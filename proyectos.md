@@ -19,24 +19,20 @@
 .menu a{
   text-decoration:none;
   padding:.42rem .85rem;
-  border-radius:999px;          /* pastillas */
-  border:1px solid rgba(255,255,255,.35);
-  background:rgba(255,255,255,.10);
-  color:rgba(255,255,255,.92);
-  font-weight:500;              /* menos “pesado” */
+  border-radius:10px;
+  border:1px solid #d9d9d9;
+  background:#ffffff;
+  color:#2b6cb0;        /* azul sobrio */
+  font-weight:600;
   font-size:.92rem;
-  transition: background .15s ease, border-color .15s ease, transform .05s ease;
 }
 
 .menu a:hover{
-  background:rgba(255,255,255,.18);
-  border-color:rgba(255,255,255,.55);
-}
-
-.menu a:active{
-  transform: translateY(1px);
+  background:#f3f4f6;
+  border-color:#bdbdbd;
 }
 </style>
+
 
 ---
 
