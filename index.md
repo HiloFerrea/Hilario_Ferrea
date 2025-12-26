@@ -1,4 +1,12 @@
-[Inicio](index) · [Proyectos](proyectos) · [Publicaciones](publicaciones) · [Docencia](docencia) · [Contacto](#contacto)
+<nav class="menu">
+  <a href="index">Inicio</a>
+  <a href="proyectos">Proyectos</a>
+  <a href="publicaciones">Publicaciones</a>
+  <a href="docencia">Docencia</a>
+  <a href="#contacto">Contacto</a>
+</nav>
+
+<hr>
 
 ---
 
