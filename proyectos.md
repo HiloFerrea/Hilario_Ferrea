@@ -34,8 +34,6 @@
 </style>
 
 
----
-
 # Proyectos y trabajos
 
 En esta sección se presentan proyectos de análisis, producción de indicadores
