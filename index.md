@@ -66,9 +66,9 @@
 </style>
 
 
-# Y esto, ¿qué es?
+# ¿Qué somos?
 
-Disipando la Burma es un espacio pensado para despejar la complejidad de la gestión de los datos, producir evidencia y aportar claridad al análisis social y al diseño de las políticas públicas.
+**Disipando la Burma** es un espacio pensado para despejar la complejidad de la gestión de los datos, producir evidencia y aportar claridad al análisis social y al diseño de las políticas públicas.
 ---
 
 ## Presentación
