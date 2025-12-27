@@ -66,9 +66,9 @@
 </style>
 
 
-# Análisis social aplicado
+# Disipando la bruma
 
-Producción de datos, análisis y capacitación para políticas públicas.
+Disipando la bruma es un espacio pensado para despejar la complejidad de los datos, producir evidencia y aportar claridad al análisis social y a las políticas públicas.
 
 ---
 
