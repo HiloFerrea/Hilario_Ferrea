@@ -97,7 +97,7 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 
     <div class="project-links">
       <a href="{{ site.baseurl }}/docs/CANASTA_CRIANZA_METODOLOGIA__PBA.pdf">
-        Presentación en jornadas (PDF)
+        Metodología (PDF)
       </a>
       <a href="https://calculadora-crianza-pba-2025.streamlit.app/" target="_blank">
         Calculadora interactiva
