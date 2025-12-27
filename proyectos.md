@@ -62,18 +62,16 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
-    <p style="margin-bottom:0.2rem;"><strong>Presentación</strong></p>
-    <ul style="margin-top:0;">
-      <li>
-        <a href="/Hilario_Ferrea/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
-          Presentación en jornadas (PDF)
-        </a>
-      </li>
-    </ul>
+    <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
+
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
+        Presentación en jornadas (PDF)
+      </a>
+    </div>
   </div>
 
 </div>
-
 
 
 
