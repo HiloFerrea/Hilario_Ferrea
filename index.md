@@ -93,8 +93,8 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
 <div class="contact-box">
 
   <!-- Emails -->
-  <span class="contact-item">📧 hiloferrea@gmail.com</span>
-  <span class="contact-item">📧 hferrea@estadistica.ec.gba.gov.ar</span>
+  <span class="contact-item"> hiloferrea@gmail.com</span>
+  <span class="contact-item"> hferrea@estadistica.ec.gba.gov.ar</span>
 
   <!-- Redes -->
   <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank">
