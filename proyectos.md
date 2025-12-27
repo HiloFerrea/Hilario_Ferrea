@@ -65,20 +65,13 @@ Implementación de una medición de pobreza multidimensional en la provincia de 
 <div style="font-size:0.9rem; margin-top:0.4rem;">
   <p style="margin-bottom:0.2rem;"><strong>Presentación</strong></p>
   <ul style="margin-top:0;">
-    <li>
-      <a href="/Hilario_Ferrea/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
-        Presentación en jornadas (PDF)
-      </a>
-    </li>
-  </ul>
-</div>
-
+   <li>
+  <a href="/Hilario_Ferrea/docs/JORNADAS_SAN_MARTIN_FINAL.pdf">
+    Presentación en jornadas (PDF)
+  </a>
+</li>
 </div>
 >
-
-
-
-
 
 ## Canasta de crianza
 <p style="font-size:0.95rem; text-align: justify;">
