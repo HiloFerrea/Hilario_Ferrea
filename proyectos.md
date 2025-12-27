@@ -45,6 +45,7 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 
 
 ## Canasta de crianza
+El proyecto desarrolla una metodología y una herramienta de cálculo para estimar el costo mensual de la crianza de niñas, niños y adolescentes, integrando el costo de bienes y servicios y la valorización del tiempo de cuidado no remunerado. La estimación contempla diferencias por edad y economías de escala en hogares con más de un NNA, y se orienta al análisis de las condiciones económicas de los hogares y al diseño de políticas públicas.
 
 **Metodologia**
 - [Estimación del costo de la crianza en la provincia de Buenos Aires](docs/CANASTA_CRIANZA_METODOLOGIA__PBA.pdf)  
