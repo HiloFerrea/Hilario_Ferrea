@@ -31,6 +31,36 @@
   background:#f3f4f6;
   border-color:#bdbdbd;
 }
+
+
+ /* Contacto en cajas */
+.contact-box{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.6rem;
+  margin-top:.6rem;
+}
+
+.contact-item{
+  padding:.45rem .8rem;
+  border:1px solid #d9d9d9;
+  border-radius:8px;
+  background:#ffffff;
+  color:#333;
+  font-size:.9rem;
+}
+
+.contact-item.link{
+  text-decoration:none;
+  color:#2b6cb0;
+  font-weight:600;
+}
+
+.contact-item.link:hover{
+  background:#f3f4f6;
+  border-color:#bdbdbd;
+}
+ 
 </style>
 
 
@@ -92,11 +122,9 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
 
 <div class="contact-box">
 
-  <!-- Emails -->
-  <span class="contact-item"> hiloferrea@gmail.com</span>
-  <span class="contact-item"> hferrea@estadistica.ec.gba.gov.ar</span>
+  <span class="contact-item">📧 hiloferrea@gmail.com</span>
+  <span class="contact-item">📧 hferrea@estadistica.ec.gba.gov.ar</span>
 
-  <!-- Redes -->
   <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank">
     LinkedIn
   </a>
@@ -105,7 +133,6 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
     GitHub
   </a>
 
-  <!-- Herramientas -->
   <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank">
     Tableau Public (Personal)
   </a>
@@ -114,7 +141,7 @@ Rigor metodológico, perspectiva social y transferencia de capacidades.
     Tableau Public (DPE)
   </a>
 
-  <a class="contact-item link" href="[https://streamlit.io/hiloferrea]" target="_blank">
+  <a class="contact-item link" href="https://streamlit.io/hiloferrea" target="_blank">
     Streamlit
   </a>
 
