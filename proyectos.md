@@ -3,7 +3,7 @@
   <a href="proyectos">Proyectos</a>
   <a href="publicaciones">Publicaciones</a>
   <a href="docencia">Docencia</a>
-  <a href="#contacto">Contacto</a>
+  <a href="index#contacto">Contacto</a>
 </nav>
 
 <hr>
@@ -40,6 +40,10 @@
   margin-bottom:1.4rem;
   background:#ffffff;
 }
+
+.project-box h2{
+  margin-top:0;
+}
   
 </style>
 
@@ -52,16 +56,19 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 
 <div class="project-box">
 
-## Pobreza multidimensional
+<h2>Pobreza multidimensional</h2>
 
 <p style="font-size:0.95rem; text-align: justify;">
 Implementación de una medición de pobreza multidimensional en la provincia de Buenos Aires, en articulación con UNICEF, que incorpora una etapa cualitativa basada en el <strong>método consensual</strong> para validar indicadores desde las percepciones de la población y complementar las mediciones tradicionales con un enfoque centrado en el bienestar.
 </p>
 
-**Presentación**
-- [Presentación en jornadas (PDF)](docs/JORNADAS_SAN_MARTIN_FINAL.pdf)
+<p><strong>Presentación</strong></p>
+<ul>
+  <li><a href="docs/JORNADAS_SAN_MARTIN_FINAL.pdf">Presentación en jornadas (PDF)</a></li>
+</ul>
 
 </div>
+
 
 
 
