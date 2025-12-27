@@ -108,7 +108,7 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 </div>
 
 
-## Esimador de pobreza e indigencia
+## Estimador de pobreza e indigencia
 <p style="font-size:0.95rem; text-align: justify;">
 Aplicación desarrollada en Streamlit que permite estimar la situación de pobreza e indigencia de un hogar a partir de su composición  y del ingreso total declarado, replicando la metodología oficial del INDEC. La herramienta calcula las brechas entre los ingresos del hogar y los valores de la Canasta Básica Alimentaria (CBA) y la Canasta Básica Total (CBT), y aporta elementos de análisis al contrastar la estimación objetiva con la percepción subjetiva de la situación económica del hogar.
 </p>
