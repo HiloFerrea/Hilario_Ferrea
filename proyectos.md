@@ -31,6 +31,16 @@
   background:#f3f4f6;
   border-color:#bdbdbd;
 }
+
+/* Caja de proyecto */
+.project-box{
+  border:1px solid #e1e4e8;
+  border-radius:8px;
+  padding:1rem 1.2rem;
+  margin-bottom:1.4rem;
+  background:#ffffff;
+}
+  
 </style>
 
 
@@ -39,12 +49,20 @@
 En esta sección se presentan proyectos de análisis, producción de indicadores
 y desarrollos aplicados en el ámbito de las políticas públicas.
 
+
+<div class="project-box">
+
 ## Pobreza multidimensional
+
 <p style="font-size:0.95rem; text-align: justify;">
 Implementación de una medición de pobreza multidimensional en la provincia de Buenos Aires, en articulación con UNICEF, que incorpora una etapa cualitativa basada en el <strong>método consensual</strong> para validar indicadores desde las percepciones de la población y complementar las mediciones tradicionales con un enfoque centrado en el bienestar.
 </p>
+
 **Presentación**
-- [Presentación en jornadas (PDF)](docs/JORNADAS_SAN MARTIN_FINAL.pdf)
+- [Presentación en jornadas (PDF)](docs/JORNADAS_SAN_MARTIN_FINAL.pdf)
+
+</div>
+
 
 
 ## Canasta de crianza
