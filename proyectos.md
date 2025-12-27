@@ -45,7 +45,12 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 
 
 ## Canasta de crianza
-Desarrollo metodológico y análisis aplicado sobre bienestar infantil y cuidados.
+**Metodologia**
+-[Estimación del costo de la crianza en la provincia de Buenos Aires.Informe metodológico](docs/CANASTA DE CRIANZA_METODOLOGIA__PBA_METODOLOGIA_COMPLETA)  
+**Herramientas**
+- [Calculadora de Crianza PBA (aplicación interactiva)](https://calculadora-crianza-pba-2025.streamlit.app/)
+
+
 
 ## Indicadores socioeconómicos
 Producción de informes y tableros a partir de encuestas de hogares y registros administrativos.
