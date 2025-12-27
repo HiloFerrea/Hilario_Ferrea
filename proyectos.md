@@ -38,7 +38,7 @@
   border-radius:8px;
   padding:1rem 1.2rem;
   margin-bottom:1.4rem;
-  background:#ffffff;
+  background:#fafbfc;
 }
 
 .project-box h2{
