@@ -65,25 +65,37 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
     <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
 
     <div class="project-links">
-      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf"> Presentación en jornadas (PDF)
+      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf"> 
+      Presentación en jornadas (PDF)
       </a>
     </div>
   </div>
 
 </div>
 
+<div class="project-box">
 
+  <h2>Canasta de crianza</h2>
 
-## Canasta de crianza
-<p style="font-size:0.95rem; text-align: justify;">
-El proyecto desarrolla una metodología y una herramienta de cálculo para estimar el <strong>costo mensual de la crianza</strong> de niñas, niños y adolescentes, integrando el costo de bienes y servicios y la valorización del tiempo de cuidado no remunerado. La estimación contempla diferencias por edad y economías de escala en hogares con más de un NNA, y se orienta al análisis de las condiciones económicas de los hogares y al diseño de políticas públicas.
-</p>
+  <p style="font-size:0.95rem; text-align: justify;">
+    El proyecto desarrolla una metodología y una herramienta de cálculo para estimar el <strong>costo mensual de la crianza</strong> de niñas, niños y adolescentes, integrando el costo de bienes y servicios y la valorización del tiempo de cuidado no remunerado. La estimación contempla diferencias por edad y economías de escala en hogares con más de un NNA, y se orienta al análisis de las condiciones económicas de los hogares y al diseño de políticas públicas.
+  </p>
 
-**Metodologia**
-- [Estimación del costo de la crianza en la provincia de Buenos Aires](docs/CANASTA_CRIANZA_METODOLOGIA__PBA.pdf)  
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Materiales</strong></p>
 
-**Herramientas**
-- [Calculadora de Crianza PBA (aplicación)](https://calculadora-crianza-pba-2025.streamlit.app/)
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/canasta_crianza_metodologia_pba.pdf">
+        Metodología (PDF)
+      </a>
+      <a href="https://calculadora-crianza-pba-2025.streamlit.app/" target="_blank">
+        Calculadora interactiva
+      </a>
+    </div>
+  </div>
+
+</div>
+
 
 
 ## Esimador de pobreza e indigencia
