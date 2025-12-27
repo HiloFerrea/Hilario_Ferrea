@@ -45,11 +45,12 @@ y desarrollos aplicados en el ámbito de las políticas públicas.
 
 
 ## Canasta de crianza
+
 **Metodologia**
--[Estimación del costo de la crianza en la provincia de Buenos Aires](docs/CANASTA DE CRIANZA_METODOLOGIA__PBA_METODOLOGIA_COMPLETA)  
+-[Estimación del costo de la crianza en la provincia de Buenos Aires](docs/CANASTA DE CRIANZA_METODOLOGIA__PBA_METODOLOGIA_COMPLETA.pdf)  
 
 **Herramientas**
-- [Calculadora de Crianza PBA (aplicación interactiva)](https://calculadora-crianza-pba-2025.streamlit.app/)
+-[Calculadora de Crianza PBA (aplicación interactiva)](https://calculadora-crianza-pba-2025.streamlit.app/)
 
 
 
