@@ -40,7 +40,9 @@ En esta sección se presentan proyectos de análisis, producción de indicadores
 y desarrollos aplicados en el ámbito de las políticas públicas.
 
 ## Pobreza multidimensional
-Construcción de indicadores y análisis orientados a complementar mediciones tradicionales.
+**Presentación**
+- [Presentación en jornadas (PDF)](docs/pobreza_multidimensional_jornadas.pdf)
+
 
 ## Canasta de crianza
 Desarrollo metodológico y análisis aplicado sobre bienestar infantil y cuidados.
