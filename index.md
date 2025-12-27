@@ -33,7 +33,7 @@
 }
 
 
- /* Contacto en cajas */
+ /* Contacto en cajas – estilo liviano */
 .contact-box{
   display:flex;
   flex-wrap:wrap;
@@ -43,23 +43,25 @@
 
 .contact-item{
   padding:.45rem .8rem;
-  border:1px solid #d9d9d9;
-  border-radius:8px;
+  border:1px solid #e1e4e8;
+  border-radius:6px;
   background:#ffffff;
-  color:#333;
+  color:#24292f;
   font-size:.9rem;
+  font-weight:400;             
 }
 
 .contact-item.link{
   text-decoration:none;
-  color:#2b6cb0;
-  font-weight:600;
+  color:#0969da;                
+  font-weight:400;             
 }
 
 .contact-item.link:hover{
-  background:#f3f4f6;
-  border-color:#bdbdbd;
+  background:#f6f8fa;
+  border-color:#d0d7de;
 }
+
  
 </style>
 
