@@ -106,6 +106,27 @@ En esta sección se reúnen proyectos que articulan análisis, producción de in
 
 </div>
 
+<div class="project-box">
+
+  <h2>Estimador de pobreza e indigencia</h2>
+
+  <p style="font-size:0.95rem; text-align: justify;">
+    Aplicación desarrollada en Streamlit que permite estimar la situación de pobreza e indigencia de un hogar a partir de su composición y del ingreso total declarado, replicando la metodología oficial del INDEC. La herramienta calcula las brechas entre los ingresos del hogar y los valores de la Canasta Básica Alimentaria (CBA) y la Canasta Básica Total (CBT), y aporta elementos de análisis al contrastar la estimación objetiva con la percepción subjetiva de la situación económica del hogar.
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Aplicación</strong></p>
+
+    <div class="project-links">
+      <a href="https://calculadora-pobreza-kkrth2pzeur55gpt2yk2kf.streamlit.app/" target="_blank">
+        Calculadora de Pobreza (aplicación)
+      </a>
+    </div>
+  </div>
+
+</div>
+
+
 
 ## Estimador de pobreza e indigencia
 <p style="font-size:0.95rem; text-align: justify;">
