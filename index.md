@@ -67,10 +67,11 @@
 </style>
 
 
-<h1>¿Qué somos?</h1>
+<h1>¿Qué es esto?</h1>
 
 <p style="text-align: justify;">
-  <strong>Disipando la bruma</strong> es un espacio pensado para despejar la complejidad de la gestión de los datos, producir evidencia y aportar claridad al análisis social y al diseño de las políticas públicas.
+  Esto no es un porfolio personal. 
+  <strong>Disipando la bruma</strong> es un espacio de producción y difusión de evidencia, pensado para despejar la complejidad de la gestión de los datos,  y aportar claridad al análisis social y al diseño de las políticas públicas.
 </p>
 <hr>
 
