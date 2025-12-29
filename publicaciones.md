@@ -102,7 +102,7 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
     <div class="project-links">
       <a href="https://cerac.unlpam.edu.ar/index.php/pys/article/view/8067/9689" target="_blank">
-        Leer artículo (HTML)
+        Leer artículo
       </a>
       <a href="{{ site.baseurl }}/docs/FEMENIDAD_2024.pdf">
         Descargar PDF
