@@ -114,3 +114,24 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
 <div class="project-box">
 
+<div class="project-box">
+
+  <h2>Si se cierran las brechas de género...  </h2>
+
+  <p style="font-size:0.95rem; text-align: justify;">
+    Este trabajo plantea estimar el efecto que el cierre de la brecha de género en la participación e ingresos laborales
+tendría en la pobreza y en la desigualdad de ingresos de los hogares. Se realiza un ejercicio de simulación con escenarios contrafácticos mediante la metodología de imputación múltiple. Los ejercicios de simulación se realizan para la población de 15 a 65 años de la provincia de Buenos Aires, utilizando
+los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer trimestre de 2022. 
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
+
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/POBLACION_PBA_5.pdf"> 
+      Presentación en jornadas (PDF)
+      </a>
+    </div>
+  </div>
+
+</div>
