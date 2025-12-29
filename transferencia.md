@@ -96,17 +96,17 @@ la gestión pública.
 
 <div class="project-box">
 
-  <h2>La estimación de la pobreza en la provincia de Buenos Aires  </h2>
+  <h2>Aportes para el Análisis Cuantitativo. Interpretación, usos y construcción de información estadística  </h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    Este trabajo examina metodologías de medición de la pobreza por ingresos y complementa la medición oficial con estimaciones para la provincia de Buenos Aires en el segundo semestre de 2016, en un contexto de alta relevancia para la política pública. 
+    Seminario orientado a fortalecer el análisis cuantitativo aplicado a la investigación en ciencias sociales, con énfasis en la interpretación crítica, el uso y la construcción de información estadística. A lo largo de seis encuentros, el curso abordó el análisis de estadísticas oficiales, indicadores demográficos, condiciones de vida y mercado laboral, así como el uso de herramientas como <strong>Excel, Tableau, Redatam, Stata y R</strong>. La propuesta, organizada por la <strong>Secretaría de Investigación de la Universidad del Este</strong>, estuvo dirigida a docentes, investigadores y estudiantes de grado y posgrado, en el marco de su agenda de formación continua. 
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
     <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
 
     <div class="project-links">
-      <a href="{{ site.baseurl }}/docs/POBLACION_PBA_4.pdf"> 
+      <a href="{{ site.baseurl }}/docs/UDE_1.pdf"> 
       Descargar PDF
       </a>
     </div>
