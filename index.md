@@ -71,6 +71,13 @@
   margin:1.2rem 0;
 }
 
+.caja-servicios p{
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+
 </style>
 
 
