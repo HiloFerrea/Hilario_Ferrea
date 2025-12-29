@@ -50,7 +50,7 @@
 /* Links de proyecto */
 .project-links{
   display:flex;
-  justify-content:center;
+  justify-content:flex-start;
   gap:0.4rem;
   flex-wrap:wrap;
 }
@@ -140,6 +140,7 @@ Este espacio agrupa informes técnicos, documentos de trabajo, tableros interact
       </a>
     </div>
   </div>
+  
 </div>
 
 <div class="project-box">
