@@ -91,21 +91,26 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
 <div class="project-box">
 
-  <h2>Feminidad del riesgo de Pobreza y Pobreza extrema en la Argentina</h2>
+  <h2>Feminidad del riesgo de pobreza y pobreza extrema en la Argentina</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    El objetivo del artículo es cuantificar la feminidad de la pobreza y pobreza extrema monetarias en Argentina en 2022, y analizar los determinantes relacionados con las desigualdades de género en el mercado laboral. Cuando se analiza qué pasaría si las mujeres debieran afrontar los gastos de las canastas básicas con ingresos propios se observa que las brechas de género se profundizan. Esto refleja una mayor vulnerabilidad de las mujeres debido a las desigualdades en el mercado laboral.
+    El objetivo del artículo es cuantificar la feminidad de la pobreza y la pobreza extrema monetarias en la Argentina en 2022, y analizar los determinantes asociados a las desigualdades de género en el mercado laboral. El análisis muestra que, si las mujeres debieran afrontar los gastos de las canastas básicas con ingresos propios, las brechas de género se profundizan, lo que refleja una mayor vulnerabilidad vinculada a las desigualdades laborales.
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
-    <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
+    <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
 
     <div class="project-links">
-      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf"> 
-      Presentación en jornadas (PDF)
+      <a href="https://cerac.unlpam.edu.ar/index.php/pys/article/view/8067/9689" target="_blank">
+        Leer artículo (HTML)
+      </a>
+      <a href="{{ site.baseurl }}/docs/FEMENIDAD_2024.pdf">
+        Descargar PDF
       </a>
     </div>
   </div>
+
+</div>
 
 </div>
 
