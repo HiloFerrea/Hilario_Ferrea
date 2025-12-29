@@ -89,3 +89,25 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
 </div>
 
+<div class="project-box">
+
+  <h2>Pobreza multidimensional</h2>
+
+  <p style="font-size:0.95rem; text-align: justify;">
+    Implementación de una medición de pobreza multidimensional en la provincia de Buenos Aires, en articulación con UNICEF, que incorpora una etapa cualitativa basada en el <strong>método consensual</strong> para validar indicadores desde las percepciones de la población y complementar las mediciones tradicionales con un enfoque centrado en el bienestar.
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Presentación</strong></p>
+
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/JORNADAS_SAN_MARTIN_FINAL.pdf"> 
+      Presentación en jornadas (PDF)
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<div class="project-box">
+
