@@ -77,22 +77,6 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 
 
 
-## Presentación
-
-<p style="text-align: justify;">
-Trabajo en el análisis de información socioeconómica a partir de datos públicos y registros administrativos,
-con el objetivo de producir diagnósticos claros, herramientas útiles y capacidades técnicas que puedan
-ser sostenidas en el tiempo por las organizaciones.
-</p>
-
-<p style="text-align: justify;">
-La propuesta integra generación de datos, análisis aplicado y formación, con foco en problemáticas
-sociales, territoriales y de gestión pública.
-</p>
-
-
-
-
 <h2>Qué hacemos</h2>
 <p style="text-align: justify;">
 
