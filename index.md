@@ -98,6 +98,7 @@ sociales, territoriales y de gestión pública.
 
 Trabajamos en el análisis de información socioeconómica a partir de datos públicos y registros administrativos para producir diagnósticos claros, herramientas útiles y capacidades técnicas sostenibles en el tiempo. La propuesta integra generación de datos, análisis aplicado y formación, con foco en problemáticas sociales, territoriales y de gestión pública, orientadas a la toma de decisiones, el diseño y la evaluación de políticas públicas.
 </p>
+<hr>
 ---
 
 ### Generación de datos
