@@ -55,7 +55,7 @@
 </style>
 
 
-# Proyectos y trabajos
+# Informes técnicos/ Documentos de trabajo
 
 En esta sección se reúnen proyectos que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
 
