@@ -124,7 +124,7 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 <div class="caja-servicios">
   <h3>Generación y diseño de datos</h3>
   <p>
-    <small></small>Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables,
+    <small>Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables,
     fuentes y criterios de medición, a partir de datos producidos específicamente para cada proyecto,
     fuentes oficiales y registros administrativos</small>.
   </p>
