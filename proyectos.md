@@ -71,7 +71,7 @@
 </style>
 
 
-<h1>Proyectos y trabajos. En qué estamos…</h1>
+<h1>En qué estamos…</h1>
 
 <p style="text-align: justify;">
 En esta sección se reúnen los proyectos actuales del espacio, que articulan análisis, producción de indicadores y desarrollos aplicados, orientados a aportar evidencia y herramientas para las políticas públicas.
