@@ -118,7 +118,7 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
     </div>
   </div>
 
-  <div class="project-box">
+<div class="project-box">
 
   <h2>La estimación de la pobreza en la provincia de Buenos Aires  </h2>
 
