@@ -117,6 +117,7 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
       </a>
     </div>
   </div>
+</div>
 
 <div class="project-box">
 
@@ -135,7 +136,6 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
       </a>
     </div>
   </div>
-
 </div>
 
 <div class="project-box">
