@@ -114,8 +114,6 @@ En esta sección se reúnen informes, documentos metodológicos, presentaciones 
 
 <div class="project-box">
 
-<div class="project-box">
-
   <h2>Si se cierran las brechas de género...  </h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
@@ -129,7 +127,7 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
 
     <div class="project-links">
       <a href="{{ site.baseurl }}/docs/POBLACION_PBA_5.pdf"> 
-      Presentación en jornadas (PDF)
+      Descargar PDF
       </a>
     </div>
   </div>
