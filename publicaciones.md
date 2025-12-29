@@ -138,5 +138,18 @@ los datos de la Encuesta Permanente a Hogares (EPH) total urbano, para el tercer
 
 </div>
 
+<h2>Métodos de medición de la pobreza. Conceptos y aplicaciones en América Latina  </h2>
 
-</div>
+  <p style="font-size:0.95rem; text-align: justify;">
+    El concepto de pobreza es multidimensional y no existe un enfoque autosuficiente para poder dimensionarlo. En la presente nota se repasan los diferentes abordajes que existen para interpretar y medir la pobreza y se repasan los diferentes métodos que se utilizan en los principales países de la región.. 
+  </p>
+
+  <div style="font-size:0.9rem; margin-top:0.4rem;">
+    <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
+
+    <div class="project-links">
+      <a href="{{ site.baseurl }}/docs/METODOS.pdf"> 
+      Descargar PDF
+      </a>
+    </div>
+  </div>
