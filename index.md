@@ -63,7 +63,14 @@
   border-color:#d0d7de;
 }
 
- 
+.caja-servicios{
+  border:1px solid #e1e4e8;
+  border-radius:8px;
+  padding:1rem 1.2rem;
+  background:#fafbfc;
+  margin:1.2rem 0;
+}
+
 </style>
 
 
@@ -84,30 +91,63 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 </p>
 <hr>
 ---
+<style>
+  .caja-servicios{
+    border: 1px solid #e1e4e8;
+    border-radius: 10px;
+    padding: 1.1rem 1.2rem;
+    background: #fafbfc;
+    margin: 1.2rem 0;
+  }
 
-### Generación de datos
-Diseño y sistematización de indicadores sociales a partir de fuentes oficiales
-y registros administrativos.
+  .caja-servicios h3{
+    margin: 0 0 .35rem 0;
+  }
 
-### Análisis aplicado
-Elaboración de diagnósticos, informes breves y visualizaciones orientadas a
-la gestión pública.
+  .caja-servicios p{
+    margin: 0 0 1rem 0;
+    line-height: 1.45;
+  }
 
-### Herramientas
-Desarrollo de tableros interactivos, calculadoras sociales y prototipos basados
-en datos públicos.
+  .caja-servicios p:last-child{
+    margin-bottom: 0;
+  }
+</style>
 
-### Capacitación
-Talleres y seminarios orientados a comprender, producir y usar datos en
-contextos reales de trabajo.
+<div class="caja-servicios">
+  <h3>Generación y diseño de datos</h3>
+  <p>
+    Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables,
+    fuentes y criterios de medición, a partir de datos producidos específicamente para cada proyecto,
+    fuentes oficiales y registros administrativos.
+  </p>
 
----
+  <h3>Procesamiento, análisis y georreferenciación de datos</h3>
+  <p>
+    Limpieza, estandarización, procesamiento y análisis de datos sociales, demográficos y territoriales,
+    incorporando técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere.
+  </p>
 
-## Enfoque
+  <h3>Análisis aplicado y producción de evidencia</h3>
+  <p>
+    Elaboración de diagnósticos, informes, visualizaciones y análisis orientados a la comprensión de
+    fenómenos sociales y a la toma de decisiones en la gestión pública.
+  </p>
 
-Rigor metodológico, perspectiva social y transferencia de capacidades.
+  <h3>Herramientas y visualizaciones</h3>
+  <p>
+    Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados
+    en datos públicos y propios, pensados para facilitar el uso de la información por parte de equipos
+    técnicos y decisores.
+  </p>
 
----
+  <h3>Capacitación y transferencia</h3>
+  <p>
+    Diseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades
+    para comprender, producir y usar datos en contextos reales de trabajo.
+  </p>
+</div>
+
 
 ## Contacto
 
