@@ -80,7 +80,7 @@ la gestión pública.
   <h2>Feminización de la pobreza. Aspectos conceptuales y herramientas de análisis</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    Curso orientado a brindar un marco conceptual y metodológico para el análisis de la pobreza y su feminización en América Latina, combinando enfoques teóricos con herramientas prácticas basadas en el uso de encuestas de hogares e información censal. A lo largo del curso se abordan las principales metodologías de medición de la pobreza por ingresos, la evidencia empírica sobre la feminización de la pobreza, el cálculo de indicadores a partir de la Encuesta Permanente de Hogares mediante <strong>Stata y R</strong>, y una introducción al enfoque multidimensional de la pobreza con aplicaciones al caso argentino, destinado a públicos con formación estadística intermedia y experiencia en el uso de software de análisis de datos.
+    Curso orientado a brindar un marco conceptual y metodológico para el análisis de la pobreza y su feminización en América Latina, combinando enfoques teóricos con herramientas prácticas basadas en el uso de encuestas de hogares e información censal. A lo largo del curso se abordan las principales metodologías de medición de la pobreza por ingresos, la evidencia empírica sobre la feminización de la pobreza, el cálculo de indicadores a partir de la Encuesta Permanente de Hogares mediante <strong>Stata</strong> y <strong>R</strong>, y una introducción al enfoque multidimensional de la pobreza con aplicaciones al caso argentino, destinado a públicos con formación estadística intermedia y experiencia en el uso de software de análisis de datos.
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
