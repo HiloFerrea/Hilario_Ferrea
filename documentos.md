@@ -80,9 +80,11 @@
 
 
 
-# Informes técnicos/ Documentos de trabajo
+<h1>Informes técnicos / Documentos de trabajo</h1>
 
-Este espacio agrupa informes técnicos, documentos de trabajo, tableros interactivos y otros desarrollos analíticos orientados generar evidencia y claridad para el análisis social y las políticas públicas.
+<p style="text-align: justify;">
+Este espacio agrupa informes técnicos, documentos de trabajo, tableros interactivos y otros desarrollos analíticos orientados a generar evidencia y claridad para el análisis social y las políticas públicas.
+</p>
 
 
 <div class="project-box">
