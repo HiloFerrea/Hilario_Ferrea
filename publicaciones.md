@@ -90,6 +90,21 @@ Aquí se reúnen artículos, capítulos, informes y otros textos que traducen el
 
 </div>
 
+## Presentación
+
+<p style="text-align: justify;">
+Trabajo en el análisis de información socioeconómica a partir de datos públicos y registros administrativos,
+con el objetivo de producir diagnósticos claros, herramientas útiles y capacidades técnicas que puedan
+ser sostenidas en el tiempo por las organizaciones.
+</p>
+
+<p style="text-align: justify;">
+La propuesta integra generación de datos, análisis aplicado y formación, con foco en problemáticas
+sociales, territoriales y de gestión pública.
+</p>
+
+
+
 <div class="project-box">
 
   <h2>Feminidad del riesgo de pobreza y pobreza extrema en la Argentina</h2>
