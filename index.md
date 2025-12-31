@@ -156,7 +156,7 @@ Es un espacio de trabajo orientado a transformar datos en evidencia para el aná
 <h2 class="centered-title">Qué hacemos</h2>
 <p style="text-align: justify;">
 
-TTrabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando datos propios, datos públicos y registros administrativos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
+Trabajamos en la generación y el análisis de <strong>información social en sentido amplio</strong>, combinando datos propios, datos públicos y registros administrativos para producir evidencia, herramientas y capacidades técnicas orientadas al análisis social y al diseño y la evaluación de políticas públicas.
 </p>
 <hr>
 ---
@@ -184,7 +184,7 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 </style>
 
 <div class="caja-servicios">
-  <h3>Generación y diseño de datos</h3>
+  <h3 id="ppdac-plan">Generación y diseño de datos</h3>
   <p>
     Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables,
     fuentes y criterios de medición, a partir de datos producidos específicamente para cada proyecto,
@@ -192,21 +192,21 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   </p>
   <hr>
 
-  <h3>Procesamiento, análisis y georreferenciación de datos</h3>
+  <h3 id="ppdac-datos">Procesamiento, análisis y georreferenciación de datos</h3>
   <p>
     Limpieza, estandarización, procesamiento y análisis de datos sociales, demográficos y territoriales,
     incorporando técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere.
   </p>
   <hr>
   
-  <h3>Análisis aplicado y producción de evidencia</h3>
+  <h3 id="ppdac-problema">Análisis aplicado y producción de evidencia</h3>
   <p>
     Elaboración de diagnósticos, informes, visualizaciones y análisis orientados a la comprensión de
     fenómenos sociales y a la toma de decisiones en la gestión pública.
   </p>
   <hr>
   
-  <h3>Herramientas y visualizaciones</h3>
+  <h3 id="ppdac-analisis">Herramientas y visualizaciones</h3>
   <p>
     Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados
     en datos públicos y propios, pensados para facilitar el uso de la información por parte de equipos
@@ -214,7 +214,7 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   </p>
   <hr>
 
-  <h3>Capacitación y transferencia</h3>
+  <h3 id="ppdac-conclusiones">Capacitación y transferencia</h3>
   <p>
     Diseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades
     para comprender, producir y usar datos en contextos reales de trabajo.
