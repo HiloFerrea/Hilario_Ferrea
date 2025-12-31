@@ -35,6 +35,12 @@
   border-color:#bdbdbd;
 }
 
+.contact-title{
+  margin: .2rem 0 .6rem 0;
+  font-weight:600;
+  text-align:center;   /* 👈 centra el texto */
+}
+  
 .contact-box{
   display:flex;
   flex-wrap:wrap;
@@ -194,9 +200,10 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 
 <hr>
 
-<p style="margin: .2rem 0 .6rem 0; font-weight:600;">
+<p class="contact-title">
   Contacto
 </p>
+
 
 <div class="contact-box">
   <a class="contact-item link" href="mailto:hiloferrea@gmail.com"> hiloferrea@gmail.com</a>
