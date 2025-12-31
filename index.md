@@ -186,6 +186,8 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   <a class="contact-item link" href="mailto:hferrea@estadistica.ec.gba.gov.ar"> hferrea@estadistica.ec.gba.gov.ar</a>
 </div>
 
+<hr>
+  
 <div class="contact-box contact-icons">
   <a href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener" aria-label="LinkedIn">
     <i class="fa-brands fa-linkedin-in"></i>
