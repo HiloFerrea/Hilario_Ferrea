@@ -71,6 +71,10 @@
   justify-content:center;   /* 👈 centra los mails */
 }
 
+.contact-mails .contact-item{
+  font-size:.88rem;   
+}
+
 
 .contact-row{
   display:flex;
