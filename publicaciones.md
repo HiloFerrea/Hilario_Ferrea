@@ -55,26 +55,6 @@
 </style>
 
 
-# Publicaciones
-
-<p style="font-size:0.95rem; text-align: justify;">
-Aquí se reúnen artículos, capítulos, informes y otros textos que traducen el trabajo analítico en ideas, evidencia y propuestas para el diseño y la discusión de las políticas públicas.
-</p>
-<hr>
-
-### Generación de datos
-<p style="text-align: justify;">
-Diseño y sistematización de indicadores sociales a partir de fuentes oficiales
-y registros administrativos.
-</p>
-<hr>
-
-
-### Análisis aplicado
-Elaboración de diagnósticos, informes breves y visualizaciones orientadas a
-la gestión pública.
-<hr>
-
 <div class="project-box">
 
   <h2>Feminidad del riesgo de pobreza y pobreza extrema en la Argentina</h2>
