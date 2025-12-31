@@ -33,35 +33,25 @@
   border-color:#bdbdbd;
 }
 
+ .contact-block{
+  margin-top:.2rem;
+}
 
- /* Contacto en cajas – estilo liviano */
-.contact-box{
+.contact-row{
   display:flex;
-  flex-wrap:wrap;
-  gap:.6rem;
-  margin-top:.6rem;
+  align-items:flex-start;
+  gap:.75rem;
+  margin:.35rem 0;
 }
 
-.contact-item{
-  padding:.45rem .8rem;
-  border:1px solid #e1e4e8;
-  border-radius:6px;
-  background:#ffffff;
-  color:#24292f;
-  font-size:.9rem;
-  font-weight:400;             
+.contact-label{
+  min-width:70px;
+  font-size:.85rem;
+  color:#6b7280; /* gris suave */
+  font-weight:600;
+  line-height:1.9;
 }
 
-.contact-item.link{
-  text-decoration:none;
-  color:#0969da;                
-  font-weight:400;             
-}
-
-.contact-item.link:hover{
-  background:#f6f8fa;
-  border-color:#d0d7de;
-}
 
 .caja-servicios{
   border:1px solid #e1e4e8;
@@ -166,23 +156,22 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   Contacto
 </p>
 
-<div class="contact-box">
-  <span class="contact-item">📧 hiloferrea@gmail.com</span>
-  <span class="contact-item">📧 hferrea@estadistica.ec.gba.gov.ar</span>
+<div class="contact-block">
+  <div class="contact-row">
+    <span class="contact-label">Correo</span>
+    <div class="contact-box">
+      <a class="contact-item link" href="mailto:hiloferrea@gmail.com">📧 hiloferrea@gmail.com</a>
+      <a class="contact-item link" href="mailto:hferrea@estadistica.ec.gba.gov.ar">📧 hferrea@estadistica.ec.gba.gov.ar</a>
+    </div>
+  </div>
 
-  <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener">
-    LinkedIn
-  </a>
-
-  <a class="contact-item link" href="https://github.com/HiloFerrea" target="_blank" rel="noopener">
-    GitHub
-  </a>
-
-  <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener">
-    Tableau (Personal)
-  </a>
-
-  <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener">
-    Tableau (DPE)
-  </a>
+  <div class="contact-row">
+    <span class="contact-label">Perfiles</span>
+    <div class="contact-box">
+      <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="contact-item link" href="https://github.com/HiloFerrea" target="_blank" rel="noopener">GitHub</a>
+      <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener">Tableau (Personal)</a>
+      <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener">Tableau (DPE)</a>
+    </div>
+  </div>
 </div>
