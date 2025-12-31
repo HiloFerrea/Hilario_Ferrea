@@ -145,9 +145,3 @@ En esta sección se reúnen los proyectos actuales del espacio, que articulan an
   </div>
 
 </div>
-
-
-
-
-## Indicadores socioeconómicos
-Producción de informes y tableros a partir de encuestas de hogares y registros administrativos.
