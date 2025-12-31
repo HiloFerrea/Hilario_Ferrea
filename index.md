@@ -39,6 +39,21 @@
   text-align:center;
 }
 
+.caja-servicios{
+  border:1px solid #e1e4e8;
+  border-radius:8px;
+  padding:1rem 1.2rem;
+  background:#fafbfc;
+  margin:1.2rem 0;
+}
+
+.caja-servicios p{
+  text-align: center;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+  
 .contact-title{
   margin: .2rem 0 .6rem 0;
   font-weight:600;
@@ -105,19 +120,6 @@
 }
 
   
-.caja-servicios{
-  border:1px solid #e1e4e8;
-  border-radius:8px;
-  padding:1rem 1.2rem;
-  background:#fafbfc;
-  margin:1.2rem 0;
-}
-
-.caja-servicios p{
-  text-align: justify;
-  text-justify: inter-word;
-  hyphens: auto;
-}
 
 
 </style>
