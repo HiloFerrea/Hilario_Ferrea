@@ -222,41 +222,135 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 </div>
 
 
-<h2 class="centered-title">Ciclo de trabajo (PPDAC)</h2>
+<style>
+  /* Opcional pero recomendado: scroll suave cuando clickeás una etapa */
+  html{ scroll-behavior:smooth; }
 
-<p style="text-align: justify;">
-El trabajo con datos se organiza a partir del ciclo <strong>PPDAC</strong>
-(Problema, Plan, Datos, Análisis y Conclusiones), entendiendo cada etapa
-como un conjunto de tareas concretas que se articulan a lo largo del proceso.
-</p>
+  .ppdac-wrap{
+    display:flex;
+    justify-content:center;
+    margin:1rem 0 1.2rem 0;
+  }
 
-<div class="ppdac-list">
+  .ppdac-svg{
+    width:min(760px, 100%);
+    height:auto;
+  }
 
-  <p>
-    <strong>Problema</strong> → Análisis aplicado y producción de evidencia
-    <span class="ppdac-desc">(arranca en la pregunta y el diagnóstico)</span>
-  </p>
+  .ppdac-seg{
+    cursor:pointer;
+    transition: opacity .15s ease, filter .15s ease;
+  }
+  .ppdac-seg:hover{
+    opacity:.92;
+    filter: brightness(0.98);
+  }
 
-  <p>
-    <strong>Plan</strong> → Generación y diseño de datos
-    <span class="ppdac-desc">(diseño conceptual y metodológico: variables, fuentes y criterios)</span>
-  </p>
+  .ppdac-label{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: .08em;
+    fill: #ffffff;
+  }
 
-  <p>
-    <strong>Datos</strong> → Procesamiento, análisis y georreferenciación de datos
-    <span class="ppdac-desc">(obtención, limpieza y armado de bases)</span>
-  </p>
+  .ppdac-center{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    fill: #3b3b3b;
+  }
 
-  <p>
-    <strong>Análisis</strong> → Herramientas y visualizaciones
-    <span class="ppdac-desc">(convertir datos en lectura, comparación y visualización)</span>
-  </p>
+  .ppdac-sub{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    fill: #6b7280;
+  }
+</style>
 
-  <p>
-    <strong>Conclusiones</strong> → Capacitación y transferencia
-    <span class="ppdac-desc">(traducción, uso, apropiación y toma de decisiones)</span>
-  </p>
+<div class="ppdac-wrap">
+  <svg class="ppdac-svg" viewBox="0 0 800 420" role="img" aria-label="Ciclo PPDAC interactivo">
+    <!-- Fondo suave para “sentarse” bien en Cayman -->
+    <rect x="0" y="0" width="800" height="420" rx="18" fill="#f8fafc"/>
 
+    <!-- Título (si lo querés sin título, borrá estos dos <text>) -->
+    <text x="400" y="55" text-anchor="middle" class="ppdac-sub" font-size="18">
+      Ciclo de trabajo (PPDAC)
+    </text>
+
+    <!-- Grupo donut -->
+    <g transform="translate(210,210)">
+      <!-- Parámetros del donut:
+           centro (0,0), radio 110, stroke 34
+           Se dibuja con círculos y dasharray para 5 segmentos + separaciones -->
+      <!-- Circunferencia aprox: 2π*110 ≈ 691.15
+           Gap 10 => seg ≈ (691.15-50)/5 = 128.23
+           Step = seg + gap = 138.23
+      -->
+
+      <!-- Rotamos para que “Problema” arranque arriba -->
+      <g transform="rotate(-90)">
+        <!-- PROBLEMA (Cayman green) -->
+        <a href="#ppdac-problema" aria-label="Problema" tabindex="0">
+          <circle class="ppdac-seg" r="110" cx="0" cy="0"
+                  fill="none" stroke="#159957" stroke-width="34"
+                  stroke-dasharray="128.23 562.92" stroke-dashoffset="0"
+                  stroke-linecap="butt"/>
+        </a>
+
+        <!-- PLAN (Cayman blue) -->
+        <a href="#ppdac-plan" aria-label="Plan" tabindex="0">
+          <circle class="ppdac-seg" r="110" cx="0" cy="0"
+                  fill="none" stroke="#1e6bb8" stroke-width="34"
+                  stroke-dasharray="128.23 562.92" stroke-dashoffset="-138.23"
+                  stroke-linecap="butt"/>
+        </a>
+
+        <!-- DATOS (azul intermedio) -->
+        <a href="#ppdac-datos" aria-label="Datos" tabindex="0">
+          <circle class="ppdac-seg" r="110" cx="0" cy="0"
+                  fill="none" stroke="#2b7bb9" stroke-width="34"
+                  stroke-dasharray="128.23 562.92" stroke-dashoffset="-276.46"
+                  stroke-linecap="butt"/>
+        </a>
+
+        <!-- ANÁLISIS (azul claro) -->
+        <a href="#ppdac-analisis" aria-label="Análisis" tabindex="0">
+          <circle class="ppdac-seg" r="110" cx="0" cy="0"
+                  fill="none" stroke="#3f8fd2" stroke-width="34"
+                  stroke-dasharray="128.23 562.92" stroke-dashoffset="-414.69"
+                  stroke-linecap="butt"/>
+        </a>
+
+        <!-- CONCLUSIONES (teal) -->
+        <a href="#ppdac-conclusiones" aria-label="Conclusiones" tabindex="0">
+          <circle class="ppdac-seg" r="110" cx="0" cy="0"
+                  fill="none" stroke="#2aa198" stroke-width="34"
+                  stroke-dasharray="128.23 562.92" stroke-dashoffset="-552.92"
+                  stroke-linecap="butt"/>
+        </a>
+      </g>
+
+      <!-- Centro -->
+      <circle r="78" cx="0" cy="0" fill="#ffffff"/>
+      <text x="0" y="-6" text-anchor="middle" class="ppdac-center" font-size="22">PPDAC</text>
+      <text x="0" y="18" text-anchor="middle" class="ppdac-sub" font-size="13">clickeá una etapa</text>
+
+      <!-- Etiquetas dentro (posiciones aproximadas, quedan bien responsive) -->
+      <text x="0" y="-125" text-anchor="middle" class="ppdac-label" font-size="13">PROBLEMA</text>
+      <text x="125" y="-10" text-anchor="middle" class="ppdac-label" font-size="13" transform="rotate(72 125 -10)">PLAN</text>
+      <text x="80" y="120" text-anchor="middle" class="ppdac-label" font-size="13" transform="rotate(144 80 120)">DATOS</text>
+      <text x="-80" y="120" text-anchor="middle" class="ppdac-label" font-size="13" transform="rotate(-144 -80 120)">ANÁLISIS</text>
+      <text x="-125" y="-10" text-anchor="middle" class="ppdac-label" font-size="13" transform="rotate(-72 -125 -10)">CONCLUSIONES</text>
+    </g>
+
+    <!-- Leyenda / mapeo (opcional, combina bien con Cayman) -->
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#374151">
+      <text x="430" y="140"><tspan font-weight="700">Problema</tspan> → Análisis aplicado y producción de evidencia</text>
+      <text x="430" y="170"><tspan font-weight="700">Plan</tspan> → Generación y diseño de datos</text>
+      <text x="430" y="200"><tspan font-weight="700">Datos</tspan> → Procesamiento, análisis y georreferenciación</text>
+      <text x="430" y="230"><tspan font-weight="700">Análisis</tspan> → Herramientas y visualizaciones</text>
+      <text x="430" y="260"><tspan font-weight="700">Conclusiones</tspan> → Capacitación y transferencia</text>
+    </g>
+  </svg>
 </div>
 
 <hr>
