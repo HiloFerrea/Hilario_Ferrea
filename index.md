@@ -57,7 +57,17 @@
   hyphens: auto;
 }
 
-  
+.ppdac-list p{
+  margin:.35rem 0;
+  line-height:1.45;
+}
+
+.ppdac-desc{
+  color:#6b7280;
+  font-size:.9rem;
+}
+
+
 .contact-title{
   margin: .2rem 0 .6rem 0;
   font-weight:600;
@@ -210,6 +220,48 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
     para comprender, producir y usar datos en contextos reales de trabajo.
   </p>
 </div>
+
+
+<h2 class="centered-title">Ciclo de trabajo (PPDAC)</h2>
+
+<p style="text-align: justify;">
+El trabajo con datos se organiza a partir del ciclo <strong>PPDAC</strong>
+(Problema, Plan, Datos, Análisis y Conclusiones), entendiendo cada etapa
+como un conjunto de tareas concretas que se articulan a lo largo del proceso.
+</p>
+
+<div class="ppdac-list">
+
+  <p>
+    <strong>Problema</strong> → Análisis aplicado y producción de evidencia
+    <span class="ppdac-desc">(arranca en la pregunta y el diagnóstico)</span>
+  </p>
+
+  <p>
+    <strong>Plan</strong> → Generación y diseño de datos
+    <span class="ppdac-desc">(diseño conceptual y metodológico: variables, fuentes y criterios)</span>
+  </p>
+
+  <p>
+    <strong>Datos</strong> → Procesamiento, análisis y georreferenciación de datos
+    <span class="ppdac-desc">(obtención, limpieza y armado de bases)</span>
+  </p>
+
+  <p>
+    <strong>Análisis</strong> → Herramientas y visualizaciones
+    <span class="ppdac-desc">(convertir datos en lectura, comparación y visualización)</span>
+  </p>
+
+  <p>
+    <strong>Conclusiones</strong> → Capacitación y transferencia
+    <span class="ppdac-desc">(traducción, uso, apropiación y toma de decisiones)</span>
+  </p>
+
+</div>
+
+<hr>
+
+
 
 
 <hr>
