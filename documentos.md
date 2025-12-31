@@ -9,12 +9,12 @@
 <hr>
 
 <style>
-/* Menú superior */
 .menu{
   display:flex;
   flex-wrap:wrap;
   gap:.5rem;
   margin:.75rem 0 1.25rem 0;
+  justify-content:center;   /* centra el menú */
 }
 
 .menu a{
