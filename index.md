@@ -160,29 +160,29 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
 </div>
 
 
-## Contacto
+<hr>
+
+<p style="margin: .2rem 0 .6rem 0; font-weight:600;">
+  Contacto
+</p>
 
 <div class="contact-box">
-
   <span class="contact-item">📧 hiloferrea@gmail.com</span>
   <span class="contact-item">📧 hferrea@estadistica.ec.gba.gov.ar</span>
 
-  <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank">
+  <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener">
     LinkedIn
   </a>
 
-  <a class="contact-item link" href="https://github.com/HiloFerrea" target="_blank">
+  <a class="contact-item link" href="https://github.com/HiloFerrea" target="_blank" rel="noopener">
     GitHub
   </a>
 
-  <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank">
-    Tableau Public (Personal)
+  <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener">
+    Tableau (Personal)
   </a>
 
-  <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank">
-    Tableau Public (DPE)
+  <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener">
+    Tableau (DPE)
   </a>
-
 </div>
-
-
