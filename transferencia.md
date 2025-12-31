@@ -62,19 +62,6 @@ Aquí se reúnen experiencias de transferencia que articulan investigación, for
 </p>
 <hr>
 
-### Generación de datos
-<p style="text-align: justify;">
-Diseño y sistematización de indicadores sociales a partir de fuentes oficiales
-y registros administrativos.
-</p>
-<hr>
-
-
-### Análisis aplicado
-Elaboración de diagnósticos, informes breves y visualizaciones orientadas a
-la gestión pública.
-<hr>
-
 <div class="project-box">
 
   <h2>Feminización de la pobreza. Aspectos conceptuales y herramientas de análisis</h2>
