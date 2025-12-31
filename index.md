@@ -8,6 +8,8 @@
 
 <hr>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <style>
 .menu{
   display:flex;
@@ -52,7 +54,30 @@
   line-height:1.9;
 }
 
+.contact-icons{
+  gap:.5rem;
+  margin-top:.45rem;
+}
 
+.contact-icons a{
+  width:38px;
+  height:38px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid #e1e4e8;
+  border-radius:8px;
+  background:#ffffff;
+  color:#2b6cb0;
+  font-size:1.1rem;
+}
+
+.contact-icons a:hover{
+  background:#f3f4f6;
+  border-color:#bdbdbd;
+}
+
+  
 .caja-servicios{
   border:1px solid #e1e4e8;
   border-radius:8px;
@@ -156,21 +181,29 @@ TTrabajamos en la generación y el análisis de <strong>información social en s
   Contacto
 </p>
 
-<div class="contact-block">
-  <div class="contact-row">
-    <span class="contact-label">Correo</span>
-    <div class="contact-box">
-      <a class="contact-item link" href="mailto:hiloferrea@gmail.com">hiloferrea@gmail.com</a>
-      <a class="contact-item link" href="mailto:hferrea@estadistica.ec.gba.gov.ar">hferrea@estadistica.ec.gba.gov.ar</a>
-    </div>
-  </div>
+<div class="contact-box">
+  <a class="contact-item link" href="mailto:hiloferrea@gmail.com">📧 hiloferrea@gmail.com</a>
+  <a class="contact-item link" href="mailto:hferrea@estadistica.ec.gba.gov.ar">📧 hferrea@estadistica.ec.gba.gov.ar</a>
+</div>
 
-<hr>
+<div class="contact-box contact-icons">
+  <a href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin-in"></i>
+  </a>
 
-  <div class="contact-row">
-    <span class="contact-label">Perfiles</span>
-    <div class="contact-box">
-      <a class="contact-item link" href="https://www.linkedin.com/in/hilario-ferrea-544521158" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://github.com/HiloFerrea" target="_blank" rel="noopener" aria-label="GitHub">
+    <i class="fa-brands fa-github"></i>
+  </a>
+
+  <a href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener" aria-label="Tableau Public">
+    <i class="fa-solid fa-chart-bar"></i>
+  </a>
+
+  <a href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener" aria-label="Tableau DPE">
+    <i class="fa-solid fa-building-columns"></i>
+  </a>
+</div>
+rel="noopener">LinkedIn</a>
       <a class="contact-item link" href="https://github.com/HiloFerrea" target="_blank" rel="noopener">GitHub</a>
       <a class="contact-item link" href="https://public.tableau.com/app/profile/hilario.ferrea" target="_blank" rel="noopener">Tableau (Personal)</a>
       <a class="contact-item link" href="https://public.tableau.com/app/profile/departamento.de.an.lisis.de.estad.sticas.sociales" target="_blank" rel="noopener">Tableau (DPE)</a>
