@@ -299,46 +299,52 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 </style>
 
 
-<h2 class="ppdac-stage">Problema</h2>
+
+<h2 id="ppdac-problema" class="ppdac-stage">Problema</h2>
   <hr>
 <div class="caja-servicios">
-  <h3 id="ppdac-plan">Análisis aplicado y producción de evidencia</h3>
+  <h3>Análisis aplicado y producción de evidencia</h3>
   <p>
     Formulación de la pregunta y construcción del diagnóstico. Elaboración de análisis orientados a la comprensión de fenómenos sociales, identificando patrones, brechas y problemáticas relevantes para la gestión pública y la toma de decisiones.
   </p>
   <hr>
  </div>
 
-<h2 class="ppdac-stage">Plan</h2>
+<h2 id="ppdac-plan" class="ppdac-stage">Plan</h2>
   <hr>
 <div class="caja-servicios">
-  <h3 id="ppdac-datos">Procesamiento, análisis y georreferenciación de datos</h3>
+  <h3>Generación y diseño de datos</h3>
   <p>
-    Limpieza, estandarización, procesamiento y análisis de datos sociales, demográficos y territoriales,
-    incorporando técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere.
+    Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables, fuentes y criterios de medición. Comprende la planificación de datos producidos específicamente para cada proyecto y su articulación con fuentes oficiales y registros administrativos.
   </p>
   <hr>
 </div>
-  
-  <h3 id="ppdac-problema">Análisis aplicado y producción de evidencia</h3>
-  <p>
-    Elaboración de diagnósticos, informes, visualizaciones y análisis orientados a la comprensión de
-    fenómenos sociales y a la toma de decisiones en la gestión pública.
+
+<h2 id="ppdac-datos" class="ppdac-stage">Datos</h2>
+<hr>
+div class="caja-servicios">
+  <h3>Procesamiento, análisis y georreferenciación de datos</h3>
+   <p>
+    Limmpieza, estandarización, procesamiento e integración de datos sociales, demográficos y territoriales. Incorporación de técnicas de georreferenciación y análisis espacial cuando la problemática lo requiere, garantizando la calidad y consistencia de la información.
   </p>
   <hr>
   
-  <h3 id="ppdac-analisis">Herramientas y visualizaciones</h3>
+<h2 id="ppdac-analisis" class="ppdac-stage">Análisis</h2>
+<hr>
+<div class="caja-servicios">
+  <h3>Herramientas y visualizaciones</h3>
   <p>
-    Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados
-    en datos públicos y propios, pensados para facilitar el uso de la información por parte de equipos
-    técnicos y decisores.
+    Desarrollo de tableros interactivos, gráficos, mapas, calculadoras sociales y prototipos basados en datos públicos y propios. Transformación de los datos en lectura analítica y visual para facilitar su comprensión, comparación y uso por parte de equipos técnicos y decisores.
   </p>
   <hr>
 
-  <h3 id="ppdac-conclusiones">Capacitación y transferencia</h3>
+<h2 id="ppdac-conclusiones" class="ppdac-stage">Conclusiones</h2>
+<hr>
+
+<div class="caja-servicios">
+  <h3>Capacitación y transferencia</h3>
   <p>
-    Diseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades
-    para comprender, producir y usar datos en contextos reales de trabajo.
+    iseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades para comprender, producir y usar datos en contextos reales de trabajo. Transferencia de resultados, métodos y aprendizajes para su incorporación efectiva en procesos de decisión.
   </p>
 </div>
 
