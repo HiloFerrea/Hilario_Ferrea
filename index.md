@@ -303,6 +303,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   </p>
   <hr>
 
+## Plan
   <h3 id="ppdac-datos">Procesamiento, análisis y georreferenciación de datos</h3>
   <p>
     Limpieza, estandarización, procesamiento y análisis de datos sociales, demográficos y territoriales,
