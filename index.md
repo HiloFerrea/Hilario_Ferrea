@@ -293,12 +293,13 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   }
 </style>
 
+
+## Problema
+  <hr>
 <div class="caja-servicios">
-  <h3 id="ppdac-plan">Generación y diseño de datos</h3>
+  <h3 id="ppdac-plan">Análisis aplicado y producción de evidencia</h3>
   <p>
-    Diseño conceptual y metodológico de indicadores sociales, incluyendo la definición de variables,
-    fuentes y criterios de medición, a partir de datos producidos específicamente para cada proyecto,
-    fuentes oficiales y registros administrativos.
+    Formulación de la pregunta y construcción del diagnóstico. Elaboración de análisis orientados a la comprensión de fenómenos sociales, identificando patrones, brechas y problemáticas relevantes para la gestión pública y la toma de decisiones.
   </p>
   <hr>
 
