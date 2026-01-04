@@ -291,10 +291,15 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   .caja-servicios p:last-child{
     margin-bottom: 0;
   }
+
+.ppdac-stage{
+  text-align: center;
+}
+
 </style>
 
 
-## Problema
+<h2 class="ppdac-stage">Problema</h2>
   <hr>
 <div class="caja-servicios">
   <h3 id="ppdac-plan">Análisis aplicado y producción de evidencia</h3>
@@ -304,7 +309,9 @@ Trabajamos en la generación y el análisis de <strong>información social en se
   <hr>
  </div>
 
-## Plan
+<h2 class="ppdac-stage">Plan</h2>
+  <hr>
+<div class="caja-servicios">
   <h3 id="ppdac-datos">Procesamiento, análisis y georreferenciación de datos</h3>
   <p>
     Limpieza, estandarización, procesamiento y análisis de datos sociales, demográficos y territoriales,
