@@ -79,7 +79,7 @@
 
 
 
-<h1>Informes técnicos / Documentos de trabajo</h1>
+<h1>Documentos de trabajo</h1>
 
 <p style="text-align: justify;">
 Este espacio agrupa informes técnicos, documentos de trabajo, tableros interactivos y otros desarrollos analíticos orientados a generar evidencia y claridad para el análisis social y las políticas públicas.
@@ -98,16 +98,6 @@ Este espacio agrupa informes técnicos, documentos de trabajo, tableros interact
     análisis territorial del consumo energético y el diseño de políticas públicas orientadas
     al uso eficiente y equitativo de la energía.
   </p>
-
-  <div class="tableau-embed">
-    <iframe
-      src="https://public.tableau.com/views/ENERGIA_16995434461600/ENERGA?:showVizHome=no"
-      width="100%"
-      height="550"
-      frameborder="0"
-      allowfullscreen>
-    </iframe>
-  </div>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
     <div class="project-links">
