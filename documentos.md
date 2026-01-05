@@ -114,20 +114,22 @@ Este espacio agrupa informes técnicos, documentos de trabajo, tableros interact
 
 <div class="project-box">
 
-  <h2>Evaluación del Programa Hacemos Futuro  </h2>
+  <h2>Evaluación del Programa Hacemos Futuro</h2>
 
   <p style="font-size:0.95rem; text-align: justify;">
-    Informe final de la evaluación del <strong>Programa Hacemos Futuro</strong>, realizada por la Universidad Nacional de La Plata a través de la Dirección de Gestión de Políticas Públicas, a solicitud del Consejo Nacional de Políticas Sociales. La evaluación tuvo como objetivo contribuir a la comprensión de los procesos de diseño e implementación de la política social en la Argentina, entendiendo la evaluación como una herramienta para fortalecer la calidad de las intervenciones estatales y mejorar las condiciones de vida y el acceso a derechos de la población. 
+    Informe final de la evaluación del <strong>Programa Hacemos Futuro</strong>, realizada por la Universidad Nacional de La Plata a través de la Dirección de Gestión de Políticas Públicas, a solicitud del Consejo Nacional de Políticas Sociales. La evaluación tuvo como objetivo contribuir a la comprensión de los procesos de diseño e implementación de la política social en la Argentina, entendiendo la evaluación como una herramienta para fortalecer la calidad de las intervenciones estatales y mejorar las condiciones de vida y el acceso a derechos de la población.
   </p>
 
   <div style="font-size:0.9rem; margin-top:0.4rem;">
     <p style="margin:0 0 0.3rem 0;"><strong>Accesos</strong></p>
 
     <div class="project-links">
-      <a href="{{ site.baseurl }}/docs/HACEMOS_FUTURO_2022.pdf"> 
-      Descargar PDF
-       </a>
-      <a href="(https://public.tableau.com/views/POTENCIAR/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)" target="_blank">
+      <a href="{{ site.baseurl }}/docs/HACEMOS_FUTURO_2022.pdf">
+        Descargar PDF
+      </a>
+
+      <a href="https://public.tableau.com/views/POTENCIAR/Dashboard1?:language=es-ES&:redirect=auth&:display_count=n&:origin=viz_share_link"
+         target="_blank" rel="noopener">
         Ver tablero en Tableau Public
       </a>
     </div>
