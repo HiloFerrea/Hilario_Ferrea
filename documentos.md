@@ -79,7 +79,7 @@
 
 
 
-<h1>Documentos de trabajo</h1>
+<h1>Producción técnica</h1>
 
 <p style="text-align: justify;">
 Este espacio agrupa informes técnicos, documentos de trabajo, tableros interactivos y otros desarrollos analíticos orientados a generar evidencia y claridad para el análisis social y las políticas públicas.
