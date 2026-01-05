@@ -373,8 +373,7 @@ Trabajamos en la generación y el análisis de <strong>información social en se
 <hr>
 
 <div class="caja-servicios">
-  <p class="volver-ciclo">
-    <h3>Capacitación y transferencia</h3>
+     <h3>Capacitación y transferencia</h3>
   <p>
     iseño y dictado de talleres, seminarios y espacios de formación orientados a fortalecer capacidades para comprender, producir y usar datos en contextos reales de trabajo. Transferencia de resultados, métodos y aprendizajes para su incorporación efectiva en procesos de decisión.
   </p>
